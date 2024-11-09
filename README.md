@@ -25,4 +25,10 @@ Baseado na metodologia CRISP-DM, o projeto tem seu desenvolvimento pautado em qu
 ## Resultados esperados
  
 Espera-se identificar as principais variáveis comuns aos tripulantes, sobreviventes ou não, e criar um modelo preditivo que analise a chance de sobrevivência dos demais passageiros, baseado nas características de outros sobreviventes e vítimas. 
+
+### Graphical Abstract
+<p align="center">
+    <img src="https://postimg.cc/v4qfxfWS" />
+</p>
+
  
