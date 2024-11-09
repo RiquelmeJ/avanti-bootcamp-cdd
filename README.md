@@ -28,7 +28,7 @@ Espera-se identificar as principais variáveis comuns aos tripulantes, sobrevive
 
 ### Graphical Abstract
 <p align="center">
-    <img src="https://i.postimg.cc/3w7B6ZW7/graphical-Abstract.png" />
+    <img src="https://i.postimg.cc/bw2nTSTP/graphical-Abstract-1.png" />
 </p>
 
  
